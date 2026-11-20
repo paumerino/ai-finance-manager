@@ -1,0 +1,7 @@
+date,merchant,amount,type,category,description
+2026-10-01,UNIVERSITY GRANT,1150.00,income,Income,Monthly stipend
+2026-10-03,ALQUILER PISO,575.00,expense,Housing & Utilities,Rent
+2026-10-06,MERCADONA SUPERMERCADO,48.20,expense,Groceries,Weekly groceries
+2026-10-09,RENFE CERCANIAS,14.50,expense,Transport,Train ticket
+2026-10-12,RESTAURANTE EL PUERTO,24.00,expense,Dining & Leisure,Dinner
+2026-10-15,SPOTIFY AB,10.99,expense,Subscriptions & Tech,Music plan

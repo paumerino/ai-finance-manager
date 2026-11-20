@@ -30,11 +30,11 @@ CSV / Manual Input ──► [1. SQLite Layer] ──► Normalized Tables + SQL
 
 ## Screenshots
 
-![Dashboard & KPIs](docs/overview_kpis.png)
-![Cashflow & Forecast Charts](docs/charts_forecast.png)
-![Predicted Expenses by Category](docs/category_forecast.png)
-![Budget vs. Actual Spending](docs/budgets_categories.png)
-![Add Transaction & Import CSV](docs/transactions_import.png)
+![Dashboard & KPIs](docs/image1.png)
+![Cashflow & Forecast Charts](docs/image2.png)
+![Predicted Expenses by Category](docs/image3.png)
+![Budget vs. Actual Spending](docs/image4.png)
+![Add Transaction & Import CSV](docs/image5.png)
 
 ## Quickstart
 
